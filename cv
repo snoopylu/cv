@@ -140,6 +140,14 @@ CCTV16-4K,http://bytedance.live.cqccn.com/__cl/cg:live/__c/CCTV16_4K/__op/defaul
 西藏卫视,http://bytedance.live.cqccn.com/__cl/cg:live/__c/xizangSD/__op/default/__f//index.m3u8
 青海卫视,http://bytedance.live.cqccn.com/__cl/cg:live/__c/qinghaiSD/__op/default/__f//index.m3u8
 三沙卫视,http://bytedance.live.cqccn.com/__cl/cg:live/__c/sanshaSD/__op/default/__f//index.m3u8
+
+其他,#genre#
+上海新闻,http://tvmvip110.club/bs1.php?id=20
+上海都市,http://183.207.255.188/live/program/live/ylpdhd/4000000/mnf.m3u8
+上海纪实,http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8
+上海生活,http://183.207.255.188/live/program/live/shsshd/4000000/mnf.m3u8
+凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
+凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8 
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 CHC家庭影院,http://bytedance.live.cqccn.com/__cl/cg:live/__c/chcjtyyHD/__op/default/__f//index.m3u8
 CHC家庭影院,https://live.v1.mk/aishang/chcjtyy
@@ -149,9 +157,11 @@ CHC高清电影,https://live.v1.mk/aishang/chcgqdy
 CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 CHC动作电影,http://bytedance.live.cqccn.com/__cl/cg:live/__c/chcdzdyHD/__op/default/__f//index.m3u8
 CHC动作电影,https://live.v1.mk/aishang/chcdzdy
+求索纪录,http://39.134.65.162/PLTV/88888888/224/3221225713/index.m3u8
 求索纪录,http://bytedance.live.cqccn.com/__cl/cg:live/__c/qsjlHD/__op/default/__f//index.m3u8
-凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
-凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8 
+求索生活,http://39.134.65.162/PLTV/88888888/224/3221225715/index.m3u8
+求索科学,http://39.134.65.162/PLTV/88888888/224/3221225728/index.m3u8
+求索动物,http://39.134.65.162/PLTV/88888888/224/3221225730/index.m3u8
 
 直播,#genre#
 周星驰,http://live.aptvapp.com/live/huya/11342412
