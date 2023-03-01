@@ -165,9 +165,6 @@ CHC动作电影,https://live.v1.mk/aishang/chcdzdy
 港澳台,#genre#
 凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
-人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 MTV,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
 时尚台FTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8 
 求索纪录,http://39.134.65.162/PLTV/88888888/224/3221225713/index.m3u8
@@ -176,7 +173,7 @@ MTV,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2
 求索科学,http://39.134.65.162/PLTV/88888888/224/3221225728/index.m3u8
 求索动物,http://39.134.65.162/PLTV/88888888/224/3221225730/index.m3u8
 
-直播,#genre#
+虎牙,#genre#
 周星驰,http://live.aptvapp.com/live/huya/11342412
 极限,http://live.aptvapp.com/live/huya/11352914
 英叔,http://live.aptvapp.com/live/huya/396734
@@ -189,6 +186,9 @@ MTV,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2
 漫威,http://live.aptvapp.com/live/huya/11602034
 院线,http://live.aptvapp.com/live/huya/11602077
 韩国,http://live.aptvapp.com/live/huya/11352884
+星魂,http://live.aptvapp.com/live/huya/967722
+星魂,http://159.75.85.63:35455/huya/967722
+斗鱼,#genre#
 大片,https://epg.112114.xyz/douyu/252802
 科幻,https://epg.112114.xyz/douyu/4332
 欧美,https://epg.112114.xyz/douyu/20415
@@ -199,7 +199,10 @@ MTV,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2
 喜剧,https://epg.112114.xyz/douyu/5423
 牛叔说电影,https://epg.112114.xyz/douyu/2758565
 陈翔,https://epg.112114.xyz/douyu/2132902
-星魂,http://live.aptvapp.com/live/huya/967722
+抖音,#genre#
+32分钟,http://159.75.85.63:35455/douyin/827805007271
+大奇游戏解说,http://159.75.85.63:35455/douyin/324034686283
+滚滚师妹,http://159.75.85.63:35455/douyin/939215438113
 
 电影,#genre#
 Rough,http://cdn.adultiptv.net/rough.m3u8
