@@ -97,7 +97,7 @@ http://125.210.152.19:9120/live/hzgq-ssws-h264.m3u8
 http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 #EXTINF:-1,tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://epg.112114.xyz/logo/上海第一财经.png" group-title="上苏",上海第一财经
 https://live.v1.mk/api/bestv.php?id=dycjhd8m/8000000
-#EXTINF:-1,tvg-id="上视新闻" tvg-name="上视新闻" tvg-logo="https://epg.112114.xyz/logo/上海新闻.png" group-title="上苏",上视新闻
+#EXTINF:-1,tvg-id="上海新闻" tvg-name="上海新闻" tvg-logo="https://epg.112114.xyz/logo/上海新闻.png" group-title="上苏",上海新闻
 https://live.v1.mk/api/bestv.php?id=xwzhhd8m/8000000
 #EXTINF:-1,tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://epg.112114.xyz/logo/上海都市.png" group-title="上苏",上海都市
 https://live.v1.mk/api/bestv.php?id=dshd8m/8000000
@@ -133,6 +133,12 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 http://dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226465/index.m3u8
 #EXTINF:-1,tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://epg.112114.xyz/logo/黑莓电影.png" group-title="影港索",黑莓电影
 http://39.135.138.60:18890/PLTV/88888910/224/3221225718/index.m3u8
+#EXTINF:-1 tvg-id="东森电影" tvg-name="东森电影" tvg-logo="https://epg.112114.xyz/logo/东森电影.png" group-title="影港索",东森电影
+http://120.84.96.89:808/hls/32/index.m3u8
+#EXTINF:-1 tvg-id="东森洋片" tvg-name="东森洋片" tvg-logo="https://epg.112114.xyz/logo/东森洋片.png" group-title="影港索",东森洋片
+http://162.19.247.76:22222/live/dsypt/index.m3u8
+#EXTINF:-1 tvg-id="龙翔时代" tvg-name="龙翔时代" tvg-logo="https://epg.112114.xyz/logo/龙翔时代.png" group-title="影港索",龙翔时代
+http://120.84.96.89:808/hls/35/index.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://n.ysyz.top:99/buyaolian/fenghuangzixun.png" group-title="影港索",凤凰资讯
 http://playtv-live.ifeng.com/live/06OLEEWQKN4.flv
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://n.ysyz.top:99/buyaolian/fenghuangzhongwen.png" group-title="影港索",凤凰中文
