@@ -95,55 +95,55 @@ http://125.210.152.19:9120/live/hszx-nxtv-h264.m3u8
 http://125.210.152.19:9120/live/hzgq-ssws-h264.m3u8
 #EXTINF:-1 tvg-id="延边卫视" tvg-name="三沙卫视" tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/延边卫视" group-title="卫视",延边卫视
 http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
-#EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png" group-title="地方",CHC家庭影院
-http://dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226462/index.m3u8
-#EXTINF:-1,tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png" group-title="地方",CHC高清电影
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
-#EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png" group-title="地方",CHC动作电影
-http://dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226465/index.m3u8 
-#EXTINF:-1,tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://epg.112114.xyz/logo/上海第一财经.png" group-title="地方",上海第一财经
+#EXTINF:-1,tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://epg.112114.xyz/logo/上海第一财经.png" group-title="上苏",上海第一财经
 https://live.v1.mk/api/bestv.php?id=dycjhd8m/8000000
-#EXTINF:-1,tvg-id="上视新闻" tvg-name="上视新闻" tvg-logo="https://epg.112114.xyz/logo/上海新闻.png" group-title="地方",上视新闻
+#EXTINF:-1,tvg-id="上视新闻" tvg-name="上视新闻" tvg-logo="https://epg.112114.xyz/logo/上海新闻.png" group-title="上苏",上视新闻
 https://live.v1.mk/api/bestv.php?id=xwzhhd8m/8000000
-#EXTINF:-1,tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://epg.112114.xyz/logo/上海都市.png" group-title="地方",上海都市
+#EXTINF:-1,tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://epg.112114.xyz/logo/上海都市.png" group-title="上苏",上海都市
 https://live.v1.mk/api/bestv.php?id=dshd8m/8000000
-#EXTINF:-1,tvg-id="上海纪实" tvg-name="上海纪实" tvg-logo="https://epg.112114.xyz/logo/上海纪实.png" group-title="地方",上海纪实
+#EXTINF:-1,tvg-id="上海纪实" tvg-name="上海纪实" tvg-logo="https://epg.112114.xyz/logo/上海纪实.png" group-title="上苏",上海纪实
 https://live.v1.mk/api/bestv.php?id=jspdhd/4000000
-#EXTINF:-1,tvg-id="上视东方影视" tvg-name="上视东方影视" tvg-logo="https://epg.112114.xyz/logo/东方影视.png" group-title="地方",东方影视
+#EXTINF:-1,tvg-id="上视东方影视" tvg-name="上视东方影视" tvg-logo="https://epg.112114.xyz/logo/东方影视.png" group-title="上苏",东方影视
 https://live.v1.mk/api/bestv.php?id=dfyshd8m/8000000
-#EXTINF:-1,tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://epg.112114.xyz/logo/五星体育.png" group-title="地方",五星体育
+#EXTINF:-1,tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://epg.112114.xyz/logo/五星体育.png" group-title="上苏",五星体育
 https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000
-#EXTINF:-1,tvg-id="上视外语" tvg-name="上视外语" tvg-logo="https://epg.112114.xyz/logo/上海外语.png" group-title="地方",上视外语
+#EXTINF:-1,tvg-id="上视外语" tvg-name="上视外语" tvg-logo="https://epg.112114.xyz/logo/上海外语.png" group-title="上苏",上视外语
 https://live.v1.mk/api/bestv.php?id=icshd8m/8000000
-#EXTINF:-1,tvg-id="SITV七彩戏剧" tvg-name="SITV七彩戏剧" tvg-logo="https://epg.112114.xyz/logo/七彩戏剧.png" group-title="地方",七彩戏剧
+#EXTINF:-1,tvg-id="SITV七彩戏剧" tvg-name="SITV七彩戏剧" tvg-logo="https://epg.112114.xyz/logo/七彩戏剧.png" group-title="上苏",七彩戏剧
 https://live.v1.mk/api/bestv.php?id=qcxjhd8m/8000000
-#EXTINF:-1,tvg-id="上海教育台" tvg-name="上海教育台" tvg-logo="https://epg.112114.xyz/logo/上海教育.png" group-title="地方",上海教育
+#EXTINF:-1,tvg-id="上海教育台" tvg-name="上海教育台" tvg-logo="https://epg.112114.xyz/logo/上海教育.png" group-title="上苏",上海教育
 https://live.v1.mk/api/bestv.php?id=setvhd/8000000
-#EXTINF:-1,tvg-id="全纪实" tvg-name="全纪实" tvg-logo="https://epg.112114.xyz/logo/全纪实.png" group-title="地方",全纪实
+#EXTINF:-1,tvg-id="全纪实" tvg-name="全纪实" tvg-logo="https://epg.112114.xyz/logo/全纪实.png" group-title="上苏",全纪实
 https://live.v1.mk/api/bestv.php?id=qjshd8m/8000000
-#EXTINF:-1,tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://epg.112114.xyz/logo/生活时尚.png" group-title="地方",生活时尚
+#EXTINF:-1,tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://epg.112114.xyz/logo/生活时尚.png" group-title="上苏",生活时尚
 https://live.v1.mk/api/bestv.php?id=shss8m/8000000
-#EXTINF:-1,tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://epg.112114.xyz/logo/黑莓电影.png" group-title="地方",黑莓电影
-http://39.135.138.60:18890/PLTV/88888910/224/3221225718/index.m3u8
-#EXTINF:-1,tvg-id="苏州新闻综合" tvg-name="苏州新闻综合" group-title="地方",苏州新闻综合
+#EXTINF:-1,tvg-id="苏州新闻综合" tvg-name="苏州新闻综合" group-title="上苏",苏州新闻综合
 https://liveshowbak2.kan0512.com/norecord/ncsztv1_sd/playlist.m3u8
-#EXTINF:-1,tvg-id="苏州社会经济" tvg-name="苏州社会经济" group-title="地方",苏州社会经济
+#EXTINF:-1,tvg-id="苏州社会经济" tvg-name="苏州社会经济" group-title="上苏",苏州社会经济
 https://liveshowbak2.kan0512.com/norecord/ncsztv2_sd/playlist.m3u8
-#EXTINF:-1,tvg-id="苏州文化生活" tvg-name="苏州文化生活" group-title="地方",苏州文化生活
+#EXTINF:-1,tvg-id="苏州文化生活" tvg-name="苏州文化生活" group-title="上苏",苏州文化生活
 https://liveshowbak2.kan0512.com/norecord/ncsztv3_sd/playlist.m3u8
-#EXTINF:-1,tvg-id="苏州电影娱乐" tvg-name="苏州电影娱乐" group-title="地方",苏州电影娱乐
+#EXTINF:-1,tvg-id="苏州电影娱乐" tvg-name="苏州电影娱乐" group-title="上苏",苏州电影娱乐
 https://liveshowbak2.kan0512.com/norecord/ncsztv4_sd/playlist.m3u8
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://n.ysyz.top:99/buyaolian/fenghuangzixun.png" group-title="地方",凤凰资讯
+#EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png" group-title="影港索",CHC家庭影院
+http://dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226462/index.m3u8
+#EXTINF:-1,tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png" group-title="影港索",CHC高清电影
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
+#EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png" group-title="影港索",CHC动作电影
+http://dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226465/index.m3u8
+#EXTINF:-1,tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://epg.112114.xyz/logo/黑莓电影.png" group-title="影港索",黑莓电影
+http://39.135.138.60:18890/PLTV/88888910/224/3221225718/index.m3u8
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://n.ysyz.top:99/buyaolian/fenghuangzixun.png" group-title="影港索",凤凰资讯
 http://playtv-live.ifeng.com/live/06OLEEWQKN4.flv
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://n.ysyz.top:99/buyaolian/fenghuangzhongwen.png" group-title="地方",凤凰中文
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://n.ysyz.top:99/buyaolian/fenghuangzhongwen.png" group-title="影港索",凤凰中文
 http://playtv-live.ifeng.com/live/06OLEGEGM4G.flv
-#EXTINF:-1,tvg-id="求索纪录" tvg-name="求索纪录" tvg-logo="https://epg.112114.xyz/logo/求索纪录.png" group-title="地方",求索纪录
+#EXTINF:-1,tvg-id="求索纪录" tvg-name="求索纪录" tvg-logo="https://epg.112114.xyz/logo/求索纪录.png" group-title="影港索",求索纪录
 http://39.134.65.162/PLTV/88888888/224/3221225713/index.m3u8
-#EXTINF:-1,tvg-id="求索生活" tvg-name="求索生活" tvg-logo="https://epg.112114.xyz/logo/求索生活.png" group-title="地方",求索生活
+#EXTINF:-1,tvg-id="求索生活" tvg-name="求索生活" tvg-logo="https://epg.112114.xyz/logo/求索生活.png" group-title="影港索",求索生活
 http://39.134.65.162/PLTV/88888888/224/3221225715/index.m3u8
-#EXTINF:-1,tvg-id="求索科学" tvg-name="求索科学" tvg-logo="https://epg.112114.xyz/logo/求索科学.png" group-title="地方",求索科学
+#EXTINF:-1,tvg-id="求索科学" tvg-name="求索科学" tvg-logo="https://epg.112114.xyz/logo/求索科学.png" group-title="影港索",求索科学
 http://39.134.65.162/PLTV/88888888/224/3221225728/index.m3u8
-#EXTINF:-1,tvg-id="求索动物" tvg-name="求索动物" tvg-logo="https://epg.112114.xyz/logo/求索动物.png" group-title="地方",求索动物
+#EXTINF:-1,tvg-id="求索动物" tvg-name="求索动物" tvg-logo="https://epg.112114.xyz/logo/求索动物.png" group-title="影港索",求索动物
 http://39.134.65.162/PLTV/88888888/224/3221225730/index.m3u8
 #EXTINF:-1,tvg-id="周星驰" tvg-name="周星驰" tvg-logo="https://huyaimg.msstatic.com/avatar/1084/37/7c96090110880e88916b11e4a18cf9_180_135.jpg?1526894329&467169" group-title="平台直播",周星驰
 http://live.aptvapp.com/live/huya/11342412
@@ -183,59 +183,59 @@ http://159.75.85.63:35455/douyin/839009024810
 http://159.75.85.63:35455/douyin/324034686283
 #EXTINF:-1,tvg-id="星魂" tvg-name="星魂" tvg-logo="https://huyaimg.msstatic.com/avatar/1028/8a/84300b56ff1bca8c95fb09fa4a3d50_180_135.jpg?1579462327&467170" group-title="平台直播",星魂
 http://159.75.85.63:35455/huya/967722
-#EXTINF:-1,tvg-name="Rough" tvg-logo="https://epg.112114.xyz/logo/ANIMAX.png" group-title="海外",Rough
+#EXTINF:-1,tvg-name="Rough"  tvg-logo="https://epg.112114.xyz/logo/ANIMAX.png" group-title="海外",Rough
 http://cdn.adultiptv.net/rough.m3u8
-#EXTINF:-1,tvg-name="Blonde" tvg-logo="https://epg.112114.xyz/logo/ANIMAX.png" group-title="海外",Blonde
+#EXTINF:-1,tvg-name="Blonde"  tvg-logo="https://epg.112114.xyz/logo/ANIMAX.png" group-title="海外",Blonde
 http://cdn.adultiptv.net/blonde.m3u8
-#EXTINF:-1,tvg-name="Anal" tvg-logo="https://epg.112114.xyz/logo/ANIMAX.png" group-title="海外",Anal
+#EXTINF:-1,tvg-name="Anal"  tvg-logo="https://epg.112114.xyz/logo/ANIMAX.png" group-title="海外",Anal
 http://cdn.adultiptv.net/anal.m3u8
-#EXTINF:-1,tvg-name="Live Cams" tvg-logo="https://epg.112114.xyz/logo/ANIMAX.png" group-title="海外",Live Cams
+#EXTINF:-1,tvg-name="Live Cams"  tvg-logo="https://epg.112114.xyz/logo/ANIMAX.png" group-title="海外",Live Cams
 http://cdn.adultiptv.net/livecams.m3u8
-#EXTINF:-1,tvg-name="Russian" tvg-logo="https://epg.112114.xyz/logo/ANIMAX.png" group-title="海外",Russian
+#EXTINF:-1,tvg-name="Russian"  tvg-logo="https://epg.112114.xyz/logo/ANIMAX.png" group-title="海外",Russian
 http://cdn.adultiptv.net/russian.m3u8
-#EXTINF:-1,tvg-name="Threesome" tvg-logo="https://epg.112114.xyz/logo/ANIMAX.png" group-title="海外",Threesome
+#EXTINF:-1,tvg-name="Threesome"  tvg-logo="https://epg.112114.xyz/logo/ANIMAX.png" group-title="海外",Threesome
 http://cdn.adultiptv.net/threesome.m3u8
-#EXTINF:-1,tvg-name="Hardcore" tvg-logo="https://epg.112114.xyz/logo/ANIMAX.png" group-title="海外",Hardcore
+#EXTINF:-1,tvg-name="Hardcore"  tvg-logo="https://epg.112114.xyz/logo/ANIMAX.png" group-title="海外",Hardcore
 http://cdn.adultiptv.net/hardcore.m3u8
-#EXTINF:-1,tvg-name="Teen" tvg-logo="https://epg.112114.xyz/logo/ANIMAX.png" group-title="海外",Teen
+#EXTINF:-1,tvg-name="Teen"  tvg-logo="https://epg.112114.xyz/logo/ANIMAX.png" group-title="海外",Teen
 http://cdn.adultiptv.net/teen.m3u8
-#EXTINF:-1,tvg-name="Blowjob" tvg-logo="https://epg.112114.xyz/logo/ANIMAX.png" group-title="海外",Blowjob
+#EXTINF:-1,tvg-name="Blowjob"  tvg-logo="https://epg.112114.xyz/logo/ANIMAX.png" group-title="海外",Blowjob
 http://cdn.adultiptv.net/blowjob.m3u8
-#EXTINF:-1,tvg-name="POV" tvg-logo="https://epg.112114.xyz/logo/ANIMAX.png" group-title="海外",POV
+#EXTINF:-1,tvg-name="POV"  tvg-logo="https://epg.112114.xyz/logo/ANIMAX.png" group-title="海外",POV
 http://cdn.adultiptv.net/pov.m3u8
-#EXTINF:-1,tvg-name="Latina" tvg-logo="https://epg.112114.xyz/logo/ANIMAX.png" group-title="海外",Latina
+#EXTINF:-1,tvg-name="Latina"  tvg-logo="https://epg.112114.xyz/logo/ANIMAX.png" group-title="海外",Latina
 http://cdn.adultiptv.net/latina.m3u8
-#EXTINF:-1,tvg-name="Interracial" tvg-logo="https://epg.112114.xyz/logo/ANIMAX.png" group-title="海外",Interracial
+#EXTINF:-1,tvg-name="Interracial"  tvg-logo="https://epg.112114.xyz/logo/ANIMAX.png" group-title="海外",Interracial
 http://cdn.adultiptv.net/interracial.m3u8
-#EXTINF:-1,tvg-name="Big Ass" tvg-logo="https://epg.112114.xyz/logo/ANIMAX.png" group-title="海外",Big Ass
+#EXTINF:-1,tvg-name="Big Ass"  tvg-logo="https://epg.112114.xyz/logo/ANIMAX.png" group-title="海外",Big Ass
 http://cdn.adultiptv.net/bigass.m3u8
-#EXTINF:-1,tvg-name="Fetish" tvg-logo="https://epg.112114.xyz/logo/ANIMAX.png" group-title="海外",Fetish
+#EXTINF:-1,tvg-name="Fetish"  tvg-logo="https://epg.112114.xyz/logo/ANIMAX.png" group-title="海外",Fetish
 http://cdn.adultiptv.net/fetish.m3u8
-#EXTINF:-1,tvg-name="Big Tits" tvg-logo="https://epg.112114.xyz/logo/ANIMAX.png" group-title="海外",Big Tits
+#EXTINF:-1,tvg-name="Big Tits"  tvg-logo="https://epg.112114.xyz/logo/ANIMAX.png" group-title="海外",Big Tits
 http://cdn.adultiptv.net/bigtits.m3u8
-#EXTINF:-1,tvg-name="Big Dick" tvg-logo="https://epg.112114.xyz/logo/ANIMAX.png" group-title="海外",Big Dick
+#EXTINF:-1,tvg-name="Big Dick"  tvg-logo="https://epg.112114.xyz/logo/ANIMAX.png" group-title="海外",Big Dick
 http://cdn.adultiptv.net/bigdick.m3u8
-#EXTINF:-1,tvg-name="MILF" tvg-logo="https://epg.112114.xyz/logo/ANIMAX.png" group-title="海外",MILF
+#EXTINF:-1,tvg-name="MILF"  tvg-logo="https://epg.112114.xyz/logo/ANIMAX.png" group-title="海外",MILF
 http://cdn.adultiptv.net/milf.m3u8
-#EXTINF:-1,tvg-name="Pornstar" tvg-logo="https://epg.112114.xyz/logo/ANIMAX.png" group-title="海外",Pornstar
+#EXTINF:-1,tvg-name="Pornstar"  tvg-logo="https://epg.112114.xyz/logo/ANIMAX.png" group-title="海外",Pornstar
 http://cdn.adultiptv.net/pornstar.m3u8
-#EXTINF:-1,tvg-name="Lesbian" tvg-logo="https://epg.112114.xyz/logo/ANIMAX.png" group-title="海外",Lesbian
+#EXTINF:-1,tvg-name="Lesbian"  tvg-logo="https://epg.112114.xyz/logo/ANIMAX.png" group-title="海外",Lesbian
 http://cdn.adultiptv.net/lesbian.m3u8
-#EXTINF:-1,tvg-name="Gay" tvg-logo="https://epg.112114.xyz/logo/ANIMAX.png" group-title="海外",Gay
+#EXTINF:-1,tvg-name="Gay"  tvg-logo="https://epg.112114.xyz/logo/ANIMAX.png" group-title="海外",Gay
 http://cdn.adultiptv.net/gay.m3u8
-#EXTINF:-1,tvg-name="Bigass HD" tvg-logo="https://epg.112114.xyz/logo/ANIMAX.png" group-title="海外",Bigass HD
+#EXTINF:-1,tvg-name="Bigass HD"  tvg-logo="https://epg.112114.xyz/logo/ANIMAX.png" group-title="海外",Bigass HD
 http://live.redtraffic.xyz/bigass.m3u8
-#EXTINF:-1,tvg-name="Cuckold HD" tvg-logo="https://epg.112114.xyz/logo/ANIMAX.png" group-title="海外",Cuckold HD
+#EXTINF:-1,tvg-name="Cuckold HD"  tvg-logo="https://epg.112114.xyz/logo/ANIMAX.png" group-title="海外",Cuckold HD
 http://live.redtraffic.xyz/cuckold.m3u8
-#EXTINF:-1,tvg-name="Fetish HD" tvg-logo="https://epg.112114.xyz/logo/ANIMAX.png" group-title="海外",Fetish HD
+#EXTINF:-1,tvg-name="Fetish HD"  tvg-logo="https://epg.112114.xyz/logo/ANIMAX.png" group-title="海外",Fetish HD
 http://live.redtraffic.xyz/fetish.m3u8
-#EXTINF:-1,tvg-name="Hard Core" tvg-logo="https://epg.112114.xyz/logo/ANIMAX.png" group-title="海外",Hard Core
+#EXTINF:-1,tvg-name="Hard Core"  tvg-logo="https://epg.112114.xyz/logo/ANIMAX.png" group-title="海外",Hard Core
 http://live.redtraffic.xyz/hardcore.m3u8
-#EXTINF:-1,tvg-name="Interracial HD" tvg-logo="https://epg.112114.xyz/logo/ANIMAX.png" group-title="海外",Interracial HD
+#EXTINF:-1,tvg-name="Interracial HD"  tvg-logo="https://epg.112114.xyz/logo/ANIMAX.png" group-title="海外",Interracial HD
 http://live.redtraffic.xyz/interracial.m3u8
-#EXTINF:-1,tvg-name="Latina HD 720" tvg-logo="https://epg.112114.xyz/logo/ANIMAX.png" group-title="海外",Latina HD 720
+#EXTINF:-1,tvg-name="Latina HD 720"  tvg-logo="https://epg.112114.xyz/logo/ANIMAX.png" group-title="海外",Latina HD 720
 http://live.redtraffic.xyz/latina.m3u8
-#EXTINF:-1,tvg-name="Lesbian HD" tvg-logo="https://epg.112114.xyz/logo/ANIMAX.png" group-title="海外",Lesbian HD
+#EXTINF:-1,tvg-name="Lesbian HD"  tvg-logo="https://epg.112114.xyz/logo/ANIMAX.png" group-title="海外",Lesbian HD
 http://live.redtraffic.xyz/lesbian.m3u8
-#EXTINF:-1,tvg-name="Milf HD" tvg-logo="https://epg.112114.xyz/logo/ANIMAX.png" group-title="海外",Milf HD
+#EXTINF:-1,tvg-name="Milf HD"  tvg-logo="https://epg.112114.xyz/logo/ANIMAX.png" group-title="海外",Milf HD
 http://live.redtraffic.xyz/milf.m3u8
