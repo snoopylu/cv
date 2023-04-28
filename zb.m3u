@@ -140,9 +140,9 @@ http://162.19.247.76:22222/live/dsypt/index.m3u8
 #EXTINF:-1 tvg-id="龙翔时代" tvg-name="龙翔时代" tvg-logo="https://epg.112114.xyz/logo/龙翔时代.png" group-title="影港索",龙翔时代
 http://120.84.96.89:808/hls/35/index.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://n.ysyz.top:99/buyaolian/fenghuangzixun.png" group-title="影港索",凤凰资讯
-http://playtv-live.ifeng.com/live/06OLEEWQKN4.flv
+https://pull-l3-cny.douyincdn.com/live/stream-19845212023042801199.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://n.ysyz.top:99/buyaolian/fenghuangzhongwen.png" group-title="影港索",凤凰中文
-http://playtv-live.ifeng.com/live/06OLEGEGM4G.flv
+https://pull-l3-cny.douyincdn.com/live/stream-19888122023042801174.m3u8
 #EXTINF:-1,tvg-id="求索纪录" tvg-name="求索纪录" tvg-logo="https://epg.112114.xyz/logo/求索纪录.png" group-title="影港索",求索纪录
 http://39.134.65.162/PLTV/88888888/224/3221225713/index.m3u8
 #EXTINF:-1,tvg-id="求索生活" tvg-name="求索生活" tvg-logo="https://epg.112114.xyz/logo/求索生活.png" group-title="影港索",求索生活
