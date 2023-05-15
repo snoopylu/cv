@@ -152,25 +152,25 @@ http://39.134.65.162/PLTV/88888888/224/3221225728/index.m3u8
 #EXTINF:-1,tvg-id="求索动物" tvg-name="求索动物" tvg-logo="https://epg.112114.xyz/logo/求索动物.png" group-title="影港索",求索动物
 http://39.134.65.162/PLTV/88888888/224/3221225730/index.m3u8
 #EXTINF:-1,tvg-id="周星驰" tvg-name="周星驰" tvg-logo="https://huyaimg.msstatic.com/avatar/1084/37/7c96090110880e88916b11e4a18cf9_180_135.jpg?1526894329&467169" group-title="平台直播",周星驰
-http://live.aptvapp.com/live/huya/11342412
+http://159.75.85.63:35455/huya/11342412
 #EXTINF:-1,tvg-id="极挑" tvg-name="极挑" tvg-logo="https://huyaimg.msstatic.com/avatar/1027/86/3816fff1eef0e4c346fc840b627740_180_135.jpg?467170" group-title="平台直播",极挑
-http://live.aptvapp.com/live/huya/11352914
+http://159.75.85.63:35455/huya/11352914
 #EXTINF:-1,tvg-id="林正英" tvg-name="林正英" tvg-logo="https://huyaimg.msstatic.com/avatar/1071/18/a683f9be4736d26d0e6256f213e57d_180_135.jpg?1446129885&467170" group-title="平台直播",林正英
-http://live.aptvapp.com/live/huya/11342421
+http://159.75.85.63:35455/huya/11342421
 #EXTINF:-1,tvg-id="成龙" tvg-name="成龙" tvg-logo="https://huyaimg.msstatic.com/avatar/1034/ad/52ee6b86d88cd6de2c12c6051a5ae6_180_135.jpg?1446036196&467170" group-title="平台直播",成龙
-http://live.aptvapp.com/live/huya/11342386
+http://159.75.85.63:35455/huya/11342386
 #EXTINF:-1,tvg-id="周润发" tvg-name="周润发" tvg-logo="https://huyaimg.msstatic.com/avatar/1063/c4/cec137bcfb0fcd9f3e91d7d4874404_180_135.jpg?467170" group-title="平台直播",周润发
-http://live.aptvapp.com/live/huya/11342387
+http://159.75.85.63:35455/huya/11342387
 #EXTINF:-1,tvg-id="李连杰" tvg-name="李连杰" tvg-logo="https://huyaimg.msstatic.com/avatar/1038/2e/6566e3e908ec0ae09387e3ab594ba2_180_135.jpg?1446441422&467170" group-title="平台直播",李连杰
-http://live.aptvapp.com/live/huya/11342390
+http://159.75.85.63:35455/huya/11342390
 #EXTINF:-1,tvg-id="洪金宝" tvg-name="洪金宝" tvg-logo="https://huyaimg.msstatic.com/avatar/1049/6d/cd3d96918d66017ae9eaa9e1eaa322_180_135.jpg?1445837265&467170" group-title="平台直播",洪金宝
-http://live.aptvapp.com/live/huya/11279251
+http://159.75.85.63:35455/huya/11279251
 #EXTINF:-1,tvg-id="沈腾" tvg-name="沈腾" tvg-logo="https://huyaimg.msstatic.com/avatar/1075/33/b6467219cbdbda1306edb9ebf29d2c_180_135.jpg?1543546825&467170" group-title="平台直播",沈腾
-http://live.aptvapp.com/live/huya/11601968
+http://159.75.85.63:35455/huya/11601968
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://huyaimg.msstatic.com/avatar/1083/8b/5793f339dff0a893b225061442a458_180_135.jpg?1463968900&467170" group-title="平台直播",漫威
-http://live.aptvapp.com/live/huya/11602034
+http://159.75.85.63:35455/huya/11602034
 #EXTINF:-1,tvg-id="漫威" tvg-name="漫威" tvg-logo="https://huyaimg.msstatic.com/avatar/1053/ff/4d501fd0b74a749908b0f773bea9e5_180_135.jpg?467170" group-title="平台直播",韩国
-http://live.aptvapp.com/live/huya/11352884
+http://159.75.85.63:35455/huya/11352884
 #EXTINF:-1,tvg-id="科幻" tvg-name="科幻" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202002/88d304d4031047a482cfc165f42b7938_big.jpg" group-title="平台直播",科幻
 http://159.75.85.63:35455/douyu/4332
 #EXTINF:-1,tvg-id="欧美" tvg-name="欧美" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201911/7fd6121143ca410cbb4305711b219b74_big.jpg" group-title="平台直播",欧美
