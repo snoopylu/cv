@@ -1,4 +1,5 @@
 {
+	"lives":[{"name":"zy","type":0,"url":"./zy.m3u"},
 	"spider":"./fm.jar",
 	"sites":[
 		{
