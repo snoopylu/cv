@@ -257,14 +257,20 @@ http://192.168.31.8:35455/huya/23903130
 http://192.168.31.8:35455/huya/23865142
 #EXTINF:-1,tvg-id="韩综" tvg-name="韩综" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png" group-title="综艺",韩综
 http://192.168.31.8:35455/huya/11602075
+#EXTINF:-1,tvg-id="韩综" tvg-name="韩综" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png" group-title="综艺",韩娱
+http://192.168.31.8:35455/huya/21059559
 #EXTINF:-1,tvg-id="韩综" tvg-name="韩综" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png" group-title="综艺",RUNNING MAN
 http://192.168.31.8:35455/huya/11336725
+#EXTINF:-1,tvg-id="国综" tvg-name="国综" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png" group-title="综艺",国综
+http://192.168.31.8:35455/huya/11352907
 #EXTINF:-1,tvg-id="美食" tvg-name="美食" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png" group-title="综艺",美食
 http://192.168.31.8:35455/huya/11352955
 #EXTINF:-1,tvg-id="小品" tvg-name="小品" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png" group-title="综艺",小品
 http://192.168.31.8:35455/douyu/9375430
 #EXTINF:-1,tvg-id="脱口秀" tvg-name="脱口秀" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png" group-title="综艺",脱口秀
 http://192.168.31.8:35455/huya/11352937
+#EXTINF:-1,tvg-id="笑傲帮" tvg-name="笑傲帮" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png" group-title="综艺",笑傲帮
+http://192.168.31.8:35455/huya/11352908
 #EXTINF:-1,tvg-id="相声" tvg-name="相声" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png" group-title="综艺",相声
 http://192.168.31.8:35455/huya/25343324
 #EXTINF:-1,tvg-id="纪晓岚" tvg-name="纪晓岚" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png" group-title="国产剧",纪晓岚
