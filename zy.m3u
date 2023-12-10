@@ -277,7 +277,7 @@ http://192.168.31.8:35455/huya/11601968
 http://192.168.31.8:35455/huya/11342429
 #EXTINF:-1,tvg-id="斯坦森" tvg-name="斯坦森" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png" group-title="明星",斯坦森
 http://192.168.31.8:35455/huya/21059588
-#EXTINF:-1,tvg-id="强森" tvg-name="强森" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png" group-title="明星影",强森
+#EXTINF:-1,tvg-id="强森" tvg-name="强森" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png" group-title="明星",强森
 http://192.168.31.8:35455/huya/21059581
 
 
@@ -438,7 +438,7 @@ http://192.168.31.8:35455/huya/11352940
 http://192.168.31.8:35455/huya/11342418
 #EXTINF:-1,tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png" group-title="国产剧",雍正皇朝
 http://192.168.31.8:35455/huya/11342439
-#EXTINF:-1,ttvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png" group-title="国产剧",纪晓岚
+#EXTINF:-1,tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png" group-title="国产剧",纪晓岚
 http://192.168.31.8:35455/huya/11342396
 #EXTINF:-1,tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png" group-title="国产剧",喜来乐
 http://192.168.31.8:35455/huya/11601978
