@@ -246,8 +246,12 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 http://dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226465/index.m3u8
 #EXTINF:-1,tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://diyp.112114.xyz/logo/黑莓电影.png" group-title="电影",黑莓电影
 http://ott.mobaibox.com/PLTV/3/224/3221225567/index.m3u8
-#EXTINF:-1,tvg-id="1905" tvg-name="1905" tvg-logo="https://diyp.112114.xyz/logo/1905.png" group-title="电影",1905
-http://192.168.31.8:3456/1905.php?id=1905dy
+#EXTINF:-1,tvg-id="1905" tvg-name="1905" tvg-logo="https://diyp.112114.xyz/logo/1905.png" group-title="电影",1905国外电影
+http://192.168.31.8:3456/1905.php?id=1905a
+#EXTINF:-1,tvg-id="1905" tvg-name="1905" tvg-logo="https://diyp.112114.xyz/logo/1905.png" group-title="电影",1905国内电影
+http://192.168.31.8:3456/1905.php?id=1905b
+#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://diyp.112114.xyz/logo/CCTV6.png" group-title="央视",CCTV6
+http://192.168.31.8:3456/1905.php?id=cctv6
 #EXTINF:-1,tvg-id="求索纪录" tvg-name="求索纪录" tvg-logo="https://diyp.112114.xyz/logo/求索纪录.png" group-title="求索",求索纪录
 http://39.134.65.162/PLTV/88888888/224/3221225713/index.m3u8
 #EXTINF:-1,tvg-id="求索生活" tvg-name="求索生活" tvg-logo="https://diyp.112114.xyz/logo/求索生活.png" group-title="求索",求索生活
