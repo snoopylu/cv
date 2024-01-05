@@ -264,67 +264,67 @@ http://39.134.65.162/PLTV/88888888/224/3221225730/index.m3u8
 
 
 #EXTINF:-1,tvg-id="周星驰" tvg-name="周星驰" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png" group-title="明星",周星驰
-http://192.168.31.8:35455/huya/11342412
+http://192.168.31.8:35455/huya/11342412?cdn=TX
 #EXTINF:-1,tvg-id="林正英" tvg-name="林正英" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png" group-title="明星",林正英
-http://192.168.31.8:35455/huya/11342421
+http://192.168.31.8:35455/huya/11342421?cdn=AL
 #EXTINF:-1,tvg-id="成龙" tvg-name="成龙" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png" group-title="明星",成龙
-http://192.168.31.8:35455/huya/11342386
+http://192.168.31.8:35455/huya/11342386?cdn=AL
 #EXTINF:-1,tvg-id="周润发" tvg-name="周润发" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png" group-title="明星",周润发
-http://192.168.31.8:35455/huya/11342387
+http://192.168.31.8:35455/huya/11342387?cdn=AL
 #EXTINF:-1,tvg-id="李连杰" tvg-name="李连杰" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png" group-title="明星",李连杰
-http://192.168.31.8:35455/huya/11342390
+http://192.168.31.8:35455/huya/11342390?cdn=AL
 #EXTINF:-1,tvg-id="洪金宝" tvg-name="洪金宝" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png" group-title="明星",洪金宝
-http://192.168.31.8:35455/huya/11279251
+http://192.168.31.8:35455/huya/11279251?cdn=AL
 #EXTINF:-1,tvg-id="沈腾" tvg-name="沈腾" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png" group-title="明星",沈腾
-http://192.168.31.8:35455/huya/11601968
+http://192.168.31.8:35455/huya/11601968?cdn=AL
 #EXTINF:-1,tvg-id="梁家辉" tvg-name="梁家辉" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png" group-title="明星",梁家辉
-http://192.168.31.8:35455/huya/11342429
+http://192.168.31.8:35455/huya/11342429?cdn=AL
 #EXTINF:-1,tvg-id="斯坦森" tvg-name="斯坦森" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png" group-title="明星",斯坦森
-http://192.168.31.8:35455/huya/21059588
+http://192.168.31.8:35455/huya/21059588?cdn=AL
 #EXTINF:-1,tvg-id="强森" tvg-name="强森" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png" group-title="明星",强森
-http://192.168.31.8:35455/huya/21059581
+http://192.168.31.8:35455/huya/21059581?cdn=AL
 
 
 #EXTINF:-1,tvg-id="韩国" tvg-name="韩国" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png" group-title="国外电影",韩国
-http://192.168.31.8:35455/huya/11352884
+http://192.168.31.8:35455/huya/11352884?cdn=AL
 #EXTINF:-1,tvg-id="宇宙" tvg-name="宇宙" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png" group-title="国外电影",宇宙
-http://192.168.31.8:35455/huya/11342428
+http://192.168.31.8:35455/huya/11342428?cdn=AL
 #EXTINF:-1,tvg-id="警匪" tvg-name="警匪" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png" group-title="国外电影",警匪
-http://192.168.31.8:35455/huya/11352886
+http://192.168.31.8:35455/huya/11352886?cdn=AL
 #EXTINF:-1,tvg-id="枪战" tvg-name="枪战" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png" group-title="国外电影",枪战
-http://192.168.31.8:35455/huya/21059579
+http://192.168.31.8:35455/huya/21059579?cdn=AL
 #EXTINF:-1,tvg-id="战争" tvg-name="战争" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png" group-title="国外电影",战争
-http://192.168.31.8:35455/huya/21059592
+http://192.168.31.8:35455/huya/21059592?cdn=AL
 #EXTINF:-1,tvg-logo="https://ib11.go2yd.com/image.php?url=0G286gvIx5" group-title="国外电影",4K轮播
 http://192.168.31.8:35455/douyu/9249162
 
 
 #EXTINF:-1,tvg-id="盗墓" tvg-name="盗墓" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png" group-title="国产电影",盗墓
-http://192.168.31.8:35455/huya/21059552
+http://192.168.31.8:35455/huya/21059552?cdn=AL
 #EXTINF:-1,tvg-id="玄幻" tvg-name="玄幻" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png" group-title="国产电影",玄幻
-http://192.168.31.8:35455/huya/11342414
+http://192.168.31.8:35455/huya/11342414?cdn=AL
 #EXTINF:-1,tvg-id="喜剧" tvg-name="喜剧" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png" group-title="国产电影",喜剧
-http://192.168.31.8:35455/huya/11352877
+http://192.168.31.8:35455/huya/11352877?cdn=AL
 #EXTINF:-1,tvg-id="港片" tvg-name="港片" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png" group-title="国产电影",港片
-http://192.168.31.8:35455/huya/11602043
+http://192.168.31.8:35455/huya/11602043?cdn=AL
 #EXTINF:-1,tvg-id="国产" tvg-name="国产" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png" group-title="国产电影",国产
-http://192.168.31.8:35455/huya/11352973
+http://192.168.31.8:35455/huya/11352973?cdn=AL
 #EXTINF:-1,tvg-id="古装" tvg-name="古装" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png" group-title="国产电影",古装
-http://192.168.31.8:35455/huya/11336590
+http://192.168.31.8:35455/huya/11336590?cdn=AL
 #EXTINF:-1,tvg-id="动作电影" tvg-name="动作电影" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png" group-title="国产电影",动作电影
-http://192.168.31.8:35455/huya/11602077
+http://192.168.31.8:35455/huya/11602077?cdn=AL
 #EXTINF:-1,tvg-id="古墓" tvg-name="古墓" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png" group-title="国产电影",古墓
-http://192.168.31.8:35455/huya/11352913
+http://192.168.31.8:35455/huya/11352913?cdn=AL
 #EXTINF:-1,tvg-id="女神" tvg-name="女神" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png" group-title="国产电影",女神
-http://192.168.31.8:35455/huya/11336571
+http://192.168.31.8:35455/huya/11336571?cdn=AL
 
 
 #EXTINF:-1,tvg-id="武林外传动画版" tvg-name="武林外传动画版" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png" group-title="动漫",武林外传动画版
-http://192.168.31.8:35455/huya/25749066
+http://192.168.31.8:35455/huya/25749066?cdn=TX
 #EXTINF:-1,tvg-id="龙珠" tvg-name="龙珠" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png" group-title="动漫",龙珠
-http://192.168.31.8:35455/huya/11601966
+http://192.168.31.8:35455/huya/11601966?cdn=AL
 #EXTINF:-1,tvg-id="猫和老鼠" tvg-name="猫和老鼠" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png" group-title="动漫",猫和老鼠
-http://192.168.31.8:35455/huya/11352879
+http://192.168.31.8:35455/huya/11352879?cdn=AL
 #EXTINF:-1,tvg-id="海贼王" tvg-name="海贼王" tvg-logo="https://ib11.go2yd.com/image.php?url=0G286gvIx5" group-title="动漫",海贼王
 http://192.168.31.8:35455/douyu/997925
 #EXTINF:-1,tvg-id="圣斗士" tvg-name="圣斗士" tvg-logo="https://ib11.go2yd.com/image.php?url=0G286gvIx5" group-title="动漫",圣斗士
@@ -338,70 +338,70 @@ http://192.168.31.8:35455/douyu/1174353
 
 
 #EXTINF:-1,tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png" group-title="埋堆堆",陈浩民版西游记
-http://192.168.31.8:35455/huya/23735126
+http://192.168.31.8:35455/huya/23735126?cdn=AL
 #EXTINF:-1,tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png" group-title="埋堆堆",封神榜
-http://192.168.31.8:35455/huya/23749096
+http://192.168.31.8:35455/huya/23749096?cdn=AL
 #EXTINF:-1,tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png" group-title="埋堆堆",楚汉骄雄
-http://192.168.31.8:35455/huya/23740156
+http://192.168.31.8:35455/huya/23740156?cdn=AL
 #EXTINF:-1,tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png" group-title="埋堆堆",张卫健版西游记
-http://192.168.31.8:35455/huya/23728660
+http://192.168.31.8:35455/huya/23728660?cdn=AL
 #EXTINF:-1,tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png" group-title="埋堆堆",鹿鼎记
-http://192.168.31.8:35455/huya/23865080
+http://192.168.31.8:35455/huya/23865080?cdn=AL
 #EXTINF:-1,tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png" group-title="埋堆堆",寻秦记
-http://192.168.31.8:35455/huya/23864973
+http://192.168.31.8:35455/huya/23864973?cdn=AL
 #EXTINF:-1,tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png" group-title="埋堆堆",天龙八部
-http://192.168.31.8:35455/huya/23903123
+http://192.168.31.8:35455/huya/23903123?cdn=AL
 #EXTINF:-1,tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png" group-title="埋堆堆",法证先锋3
-http://192.168.31.8:35455/huya/23863804
+http://192.168.31.8:35455/huya/23863804?cdn=AL
 #EXTINF:-1,tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png" group-title="埋堆堆",法证先锋
-http://192.168.31.8:35455/huya/23734169
+http://192.168.31.8:35455/huya/23734169?cdn=AL
 #EXTINF:-1,tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png" group-title="埋堆堆",神雕侠侣
-http://192.168.31.8:35455/huya/23865171
+http://192.168.31.8:35455/huya/23865171?cdn=AL
 #EXTINF:-1,tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png" group-title="埋堆堆",洗冤录
-http://192.168.31.8:35455/huya/23903130
+http://192.168.31.8:35455/huya/23903130?cdn=AL
 #EXTINF:-1,tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png" group-title="埋堆堆",法证先锋2
-http://192.168.31.8:35455/huya/23860039
+http://192.168.31.8:35455/huya/23860039?cdn=AL
 #EXTINF:-1,tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png" group-title="埋堆堆",笑傲江湖
-http://192.168.31.8:35455/huya/23865142
+http://192.168.31.8:35455/huya/23865142?cdn=AL
 #EXTINF:-1,tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png" group-title="埋堆堆",状王宋世杰
-http://192.168.31.8:35455/huya/23734183
+http://192.168.31.8:35455/huya/23734183?cdn=AL
 #EXTINF:-1,tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png" group-title="埋堆堆",使徒行者
-http://192.168.31.8:35455/huya/23734256
+http://192.168.31.8:35455/huya/23734256?cdn=AL
 #EXTINF:-1,tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png" group-title="埋堆堆",金装四大才子
-http://192.168.31.8:35455/huya/23903183
+http://192.168.31.8:35455/huya/23903183?cdn=AL
 #EXTINF:-1,tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png" group-title="埋堆堆",布衣神相
-http://192.168.31.8:35455/huya/23865036
+http://192.168.31.8:35455/huya/23865036?cdn=AL
 #EXTINF:-1,tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png" group-title="埋堆堆",扫黄先锋
-http://192.168.31.8:35455/huya/23903196
+http://192.168.31.8:35455/huya/23903196?cdn=AL
 #EXTINF:-1,tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png" group-title="埋堆堆",射雕英雄传
-http://192.168.31.8:35455/huya/23728674
+http://192.168.31.8:35455/huya/23728674?cdn=AL
 #EXTINF:-1,tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png" group-title="埋堆堆",大时代
-http://192.168.31.8:35455/huya/23865161
+http://192.168.31.8:35455/huya/23865161?cdn=AL
 #EXTINF:-1,tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png" group-title="埋堆堆",食为奴
-http://192.168.31.8:35455/huya/23865058
+http://192.168.31.8:35455/huya/23865058?cdn=AL
 #EXTINF:-1,tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png" group-title="埋堆堆",创世纪
-http://192.168.31.8:35455/huya/23749083
+http://192.168.31.8:35455/huya/23749083?cdn=AL
 #EXTINF:-1,tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png" group-title="埋堆堆",天地争霸
-http://192.168.31.8:35455/huya/23734246
+http://192.168.31.8:35455/huya/23734246?cdn=AL
 #EXTINF:-1,tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png" group-title="埋堆堆",野蛮亲家
-http://192.168.31.8:35455/huya/23863796
+http://192.168.31.8:35455/huya/23863796?cdn=AL
 #EXTINF:-1,tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png" group-title="埋堆堆",射雕之九阴真经
-http://192.168.31.8:35455/huya/23824164
+http://192.168.31.8:35455/huya/23824164?cdn=AL
 
 
 
 #EXTINF:-1,tvg-id="极挑" tvg-name="极挑" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png" group-title="综艺",极挑
-http://192.168.31.8:35455/huya/11352914
+http://192.168.31.8:35455/huya/11352914?cdn=AL
 #EXTINF:-1,tvg-id="韩综" tvg-name="韩综" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png" group-title="综艺",韩综
-http://192.168.31.8:35455/huya/11602075
+http://192.168.31.8:35455/huya/11602075?cdn=AL
 #EXTINF:-1,tvg-id="韩综" tvg-name="韩综" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png" group-title="综艺",韩娱
-http://192.168.31.8:35455/huya/21059559
+http://192.168.31.8:35455/huya/21059559?cdn=AL
 #EXTINF:-1,tvg-id="韩综" tvg-name="韩综" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png" group-title="综艺",RUNNING MAN
-http://192.168.31.8:35455/huya/11336725
+http://192.168.31.8:35455/huya/11336725?cdn=AL
 #EXTINF:-1,tvg-id="国综" tvg-name="国综" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png" group-title="综艺",国综
-http://192.168.31.8:35455/huya/11352907
+http://192.168.31.8:35455/huya/11352907?cdn=AL
 #EXTINF:-1,tvg-id="美食" tvg-name="美食" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png" group-title="综艺",美食
-http://192.168.31.8:35455/huya/11352955
+http://192.168.31.8:35455/huya/11352955?cdn=AL
 #EXTINF:-1,tvg-id="美食" tvg-name="美食" tvg-logo="https://ib11.go2yd.com/image.php?url=0G286gvIx5" group-title="综艺",印度美食
 http://192.168.31.8:35455/douyu/11419689
 #EXTINF:-1,tvg-id="美食" tvg-name="美食" tvg-logo="https://ib11.go2yd.com/image.php?url=0G286gvIx5" group-title="综艺",街头美食
@@ -409,17 +409,17 @@ http://192.168.31.8:35455/douyu/1164331
 #EXTINF:-1,tvg-id="小品" tvg-name="小品" tvg-logo="https://ib11.go2yd.com/image.php?url=0G286gvIx5" group-title="综艺",小品
 http://192.168.31.8:35455/douyu/9375430
 #EXTINF:-1,tvg-id="脱口秀" tvg-name="脱口秀" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png" group-title="综艺",脱口秀
-http://192.168.31.8:35455/huya/11352937
+http://192.168.31.8:35455/huya/11352937?cdn=AL
 #EXTINF:-1,tvg-id="笑傲帮" tvg-name="笑傲帮" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png" group-title="综艺",笑傲帮
-http://192.168.31.8:35455/huya/11352908
+http://192.168.31.8:35455/huya/11352908?cdn=AL
 #EXTINF:-1,tvg-id="相声" tvg-name="相声" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png" group-title="综艺",相声
-http://192.168.31.8:35455/huya/25343324
+http://192.168.31.8:35455/huya/25343324?cdn=AL
 #EXTINF:-1,tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png" group-title="综艺",丛林求生
-http://192.168.31.8:35455/huya/24720260
+http://192.168.31.8:35455/huya/24720260?cdn=AL
 #EXTINF:-1,tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png" group-title="综艺",荒岛生存
-http://192.168.31.8:35455/huya/24766781
+http://192.168.31.8:35455/huya/24766781?cdn=AL
 #EXTINF:-1,tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png" group-title="综艺",丛林造房
-http://192.168.31.8:35455/huya/20985855
+http://192.168.31.8:35455/huya/20985855?cdn=AL
 
 
 #EXTINF:-1,tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png" group-title="国产剧",宝莲灯
