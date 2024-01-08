@@ -262,7 +262,10 @@ http://39.134.65.162/PLTV/88888888/224/3221225728/index.m3u8
 http://39.134.65.162/PLTV/88888888/224/3221225730/index.m3u8
 
 
-
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201907/42dbbbd5f6234e96ac54d84287f8c47e_big.jpg" group-title="斗鱼轮播", 橙記Orange丶
+https://www.goodiptv.club/douyu/4549169
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202002/62a2bfb18ccb4fb5a444847370f32096_big.jpg" group-title="斗鱼轮播", 狂仔酷炫
+https://www.goodiptv.club/douyu/252802
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201907/42dbbbd5f6234e96ac54d84287f8c47e_big.jpg" group-title="斗鱼轮播", 橙記Orange丶
 http://192.168.31.8:35455/douyu/4549169
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202308/ed30c2a412654672bd59add6b8b7a5bd_big.jpg" group-title="斗鱼轮播", 蓝翔新三国
@@ -2632,9 +2635,10 @@ http://192.168.31.8:35455/douyu/8912038
 
 
 
-
-
-
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1084/37/7c96090110880e88916b11e4a18cf9_180_135.jpg?1526894329" group-title="虎牙轮播", 周星星
+https://www.goodiptv.club/huya/11342412
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1005/85/fef4985d0e7ca734eeaa3ebb380c7b_180_135.jpg?1606889447" group-title="虎牙轮播", TVB官方
+https://www.goodiptv.club/huya/23735126
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1084/37/7c96090110880e88916b11e4a18cf9_180_135.jpg?1526894329" group-title="虎牙轮播", 周星星
 http://192.168.31.8:35455/huya/11342412
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1005/85/fef4985d0e7ca734eeaa3ebb380c7b_180_135.jpg?1606889447" group-title="虎牙轮播", TVB官方
