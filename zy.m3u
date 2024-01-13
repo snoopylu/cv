@@ -179,10 +179,6 @@ http://39.134.65.162/PLTV/88888888/224/3221225730/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201907/42dbbbd5f6234e96ac54d84287f8c47e_big.jpg" group-title="斗鱼轮播", 橙記Orange丶
-https://www.goodiptv.club/douyu/4549169
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202002/62a2bfb18ccb4fb5a444847370f32096_big.jpg" group-title="斗鱼轮播", 狂仔酷炫
-https://www.goodiptv.club/douyu/252802
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201907/42dbbbd5f6234e96ac54d84287f8c47e_big.jpg" group-title="斗鱼轮播", 橙記Orange丶
 http://192.168.31.8:35455/douyu/4549169
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202308/ed30c2a412654672bd59add6b8b7a5bd_big.jpg" group-title="斗鱼轮播", 蓝翔新三国
 http://192.168.31.8:35455/douyu/5908256
@@ -1038,60 +1034,10 @@ http://192.168.31.8:35455/douyu/9614847
 http://192.168.31.8:35455/douyu/9312460
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/6f10533711ed4516b00561d3e60f35c6_big.jpg" group-title="斗鱼轮播", 岚FLL
 http://192.168.31.8:35455/douyu/9409703
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/24_big.jpg" group-title="斗鱼轮播", 用户7490970004
-http://192.168.31.8:35455/douyu/11971181
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/22_big.jpg" group-title="斗鱼轮播", 用户6393782788
-http://192.168.31.8:35455/douyu/11971272
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/15_big.jpg" group-title="斗鱼轮播", 用户1311865064
-http://192.168.31.8:35455/douyu/11971273
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/17_big.jpg" group-title="斗鱼轮播", 用户1437951886
-http://192.168.31.8:35455/douyu/11971336
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/18_big.jpg" group-title="斗鱼轮播", 用户2005778917
-http://192.168.31.8:35455/douyu/11904160
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/18_big.jpg" group-title="斗鱼轮播", 用户4549666819
-http://192.168.31.8:35455/douyu/11968182
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/22_big.jpg" group-title="斗鱼轮播", 用户5992633102
-http://192.168.31.8:35455/douyu/11970603
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/17_big.jpg" group-title="斗鱼轮播", 用户5072967282
-http://192.168.31.8:35455/douyu/11970605
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/17_big.jpg" group-title="斗鱼轮播", 用户7562045940
-http://192.168.31.8:35455/douyu/11970741
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/22_big.jpg" group-title="斗鱼轮播", 用户8317383631
-http://192.168.31.8:35455/douyu/11970754
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/15_big.jpg" group-title="斗鱼轮播", 用户7851465258
-http://192.168.31.8:35455/douyu/11970772
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/16_big.jpg" group-title="斗鱼轮播", 用户4017684817
-http://192.168.31.8:35455/douyu/11971074
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/18_big.jpg" group-title="斗鱼轮播", 用户0548168523
-http://192.168.31.8:35455/douyu/11971118
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202312/e8ef4474a38f457c952927e81249805d_big.jpg" group-title="斗鱼轮播", 实战利器
 http://192.168.31.8:35455/douyu/11971133
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/22_big.jpg" group-title="斗鱼轮播", 用户6025710280
-http://192.168.31.8:35455/douyu/11971141
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/14_big.jpg" group-title="斗鱼轮播", 用户7437134852
-http://192.168.31.8:35455/douyu/11971241
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/19_big.jpg" group-title="斗鱼轮播", 用户3895090618
-http://192.168.31.8:35455/douyu/11971253
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/20_big.jpg" group-title="斗鱼轮播", 用户0204922041
-http://192.168.31.8:35455/douyu/11971254
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/25_big.jpg" group-title="斗鱼轮播", 用户8410956353
-http://192.168.31.8:35455/douyu/11971271
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202007/55a814b739e94d2ea5d78a210538ce0a_big.jpg" group-title="斗鱼轮播", 柒苃007
 http://192.168.31.8:35455/douyu/11971326
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/25_big.jpg" group-title="斗鱼轮播", 用户9153899849
-http://192.168.31.8:35455/douyu/11971328
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/16_big.jpg" group-title="斗鱼轮播", 用户6631377457
-http://192.168.31.8:35455/douyu/11971330
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/25_big.jpg" group-title="斗鱼轮播", 用户5933565980
-http://192.168.31.8:35455/douyu/11971332
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/17_big.jpg" group-title="斗鱼轮播", 用户0447230524
-http://192.168.31.8:35455/douyu/11971335
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/18_big.jpg" group-title="斗鱼轮播", 用户4779887223
-http://192.168.31.8:35455/douyu/11971337
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/17_big.jpg" group-title="斗鱼轮播", 用户6665489415
-http://192.168.31.8:35455/douyu/11971338
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/19_big.jpg" group-title="斗鱼轮播", 用户1415647587
-http://192.168.31.8:35455/douyu/11971380
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202303/d5faa59d9d21441ba70d2bcbc5c19b78_big.jpg" group-title="斗鱼轮播", 安安601801
 http://192.168.31.8:35455/douyu/11283504
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/12d5026cff3644fcb5150a7fbf6dfc43_big.jpg" group-title="斗鱼轮播", 篮球过人技巧
@@ -1100,10 +1046,6 @@ http://192.168.31.8:35455/douyu/9406897
 http://192.168.31.8:35455/douyu/5895598
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202203/a2400e460a93489db8c923d7072e1dce_big.jpg" group-title="斗鱼轮播", dy荒野建造
 http://192.168.31.8:35455/douyu/10039437
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/15_big.jpg" group-title="斗鱼轮播", 用户9162659701
-http://192.168.31.8:35455/douyu/11904235
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/17_big.jpg" group-title="斗鱼轮播", 用户0564765215
-http://192.168.31.8:35455/douyu/11835148
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202104/797aadb3eea44410b61026e8786d50aa_big.jpg" group-title="斗鱼轮播", 探奇录
 http://192.168.31.8:35455/douyu/9746763
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202102/1780b481436a4e0da04a1acf1943ff38_big.jpg" group-title="斗鱼轮播", 果冻萌萌的丶
@@ -2551,18 +2493,13 @@ http://192.168.31.8:35455/douyu/8912038
 
 
 
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1084/37/7c96090110880e88916b11e4a18cf9_180_135.jpg?1526894329" group-title="虎牙轮播", 周星星
-https://www.goodiptv.club/huya/11342412
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1005/85/fef4985d0e7ca734eeaa3ebb380c7b_180_135.jpg?1606889447" group-title="虎牙轮播", TVB官方
-https://www.goodiptv.club/huya/23735126
+
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1084/37/7c96090110880e88916b11e4a18cf9_180_135.jpg?1526894329" group-title="虎牙轮播", 周星星
 http://192.168.31.8:35455/huya/11342412
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1005/85/fef4985d0e7ca734eeaa3ebb380c7b_180_135.jpg?1606889447" group-title="虎牙轮播", TVB官方
 http://192.168.31.8:35455/huya/23735126
 #EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1081/9e/65115e9fb3108fcb101361c8ab9dd7_180_135.jpg" group-title="虎牙轮播", 小木子先生丶
 http://192.168.31.8:35455/huya/11342396
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1003/6d/241cf78c25d9ca9c0eeda13a3beeea_180_135.jpg?1681823765" group-title="虎牙轮播", 一哥电脑装机
-http://192.168.31.8:35455/huya/520885
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1016/c5/127e08c447cfb8c3d5445c9e4b8d27_180_135.jpg?1585035826" group-title="虎牙轮播", 松轩说电影
 http://192.168.31.8:35455/huya/21649307
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1045/a2/33c41a259f8e9e4833114967ba352d_180_135.jpg?1702123999" group-title="虎牙轮播", 熊宝乖伤哒
@@ -2573,8 +2510,6 @@ http://192.168.31.8:35455/huya/138531
 http://192.168.31.8:35455/huya/610617
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1050/42/28f36f4d0767fb6efc42c1c1940e1c_180_135.jpg?1561358214" group-title="虎牙轮播", 阿斗归来了
 http://192.168.31.8:35455/huya/13303478
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1029/fc/17cc50986b0cce8ccc877d084dcfa7_180_135.jpg?1691147659" group-title="虎牙轮播", 蛋壳电脑装机
-http://192.168.31.8:35455/huya/520558
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1005/90/1a4f1963fbf0d67b4768f640b9b824_180_135.jpg" group-title="虎牙轮播", 崇礼燕平
 http://192.168.31.8:35455/huya/29465862
 #EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1056/e7/c61ec3ae80bbc93817186f3a41d47c_180_135.jpg?1449028717" group-title="虎牙轮播", 鯎爺
@@ -2611,8 +2546,6 @@ http://192.168.31.8:35455/huya/29528547
 http://192.168.31.8:35455/huya/12359302
 #EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1071/18/a683f9be4736d26d0e6256f213e57d_180_135.jpg?1446129885" group-title="虎牙轮播", 7喜先生
 http://192.168.31.8:35455/huya/11342421
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1030/51/de99ee9312c3f757dde2fd856eb256_180_135.jpg?1541063878" group-title="虎牙轮播", 米粒电脑装机
-http://192.168.31.8:35455/huya/16929106
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1061/f0/c11edcd69348c39482354e379f3aba_180_135.jpg?1609139259" group-title="虎牙轮播", 香港喜剧大全
 http://192.168.31.8:35455/huya/23865080
 #EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1041/7d/9207d1a3ef105d6a498e4543887427_180_135.jpg" group-title="虎牙轮播", 我是詹密
@@ -2659,8 +2592,6 @@ http://192.168.31.8:35455/huya/25646817
 http://192.168.31.8:35455/huya/25749066
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1007/86/f826780a41885b6adc20640dec5ddf_180_135.jpg?1620958326" group-title="虎牙轮播", 余小二哦
 http://192.168.31.8:35455/huya/10279885
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1024/a3/dda3c759a03e6f5caa27f4f71d6759_180_135.jpg?1688544968" group-title="虎牙轮播", 小强电脑装机
-http://192.168.31.8:35455/huya/28947271
 #EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1042/0e/356fe2b69229b3b6e59517597aaa75_180_135.jpg?1446129774" group-title="虎牙轮播", 裸奔的蜗牛╮
 http://192.168.31.8:35455/huya/11342418
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1085/4d/ccbe9835df998659655ac1d1d1a483_180_135.jpg?1692018902" group-title="虎牙轮播", 茜妞妞、
@@ -2685,8 +2616,6 @@ http://192.168.31.8:35455/huya/11342386
 http://192.168.31.8:35455/huya/11352871
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1068/7b/14af07e5b6875ab04ed043dee2af5a_180_135.jpg?1696994747" group-title="虎牙轮播", 悸动
 http://192.168.31.8:35455/huya/28272846
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1008/a3/1afb84a7e88175188753aa8302ae93_180_135.jpg?1650708764" group-title="虎牙轮播", 悟空电脑装机
-http://192.168.31.8:35455/huya/24324961
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1054/1b/e658e859484cb9a062f05b1b542393_180_135.jpg?1542873828" group-title="虎牙轮播", 四次元先生
 http://192.168.31.8:35455/huya/11602071
 #EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1073/0a/87fd57c47451ff3bc787c7688b0636_180_135.jpg?1447838686" group-title="虎牙轮播", No1常在心
@@ -2781,8 +2710,6 @@ http://192.168.31.8:35455/huya/16690482
 http://192.168.31.8:35455/huya/20969117
 #EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1057/b1/86411769a7594adda1e6c43572dffd_180_135.jpg" group-title="虎牙轮播", 不发威当我Kitty
 http://192.168.31.8:35455/huya/11342403
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1060/48/50fa878d0f51d1d2a56350b142cf71_180_135.jpg?1684392866" group-title="虎牙轮播", 胖公子电脑装机
-http://192.168.31.8:35455/huya/17269926
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1011/3a/94ed3402adcd9dfb2074578756c65b_180_135.jpg?1607659085" group-title="虎牙轮播", 小丑讲电影
 http://192.168.31.8:35455/huya/16857432
 #EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1022/db/535e679fd698b699ef67a508afabc7_180_135.jpg?1446036068" group-title="虎牙轮播", 战斗联盟
@@ -2885,8 +2812,6 @@ http://192.168.31.8:35455/huya/11342399
 http://192.168.31.8:35455/huya/11601960
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1000/3a/51204e1845d990862a5b96b45e672d_180_135.jpg?1606723330" group-title="虎牙轮播", 我才是打工人
 http://192.168.31.8:35455/huya/23860039
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1070/92/caba635b71d6e3aa83391ea0651df5_180_135.jpg?1697254426" group-title="虎牙轮播", 蓝凌电脑装机
-http://192.168.31.8:35455/huya/295725
 #EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1050/54/567123456cfccfc6bb604ac3fdfbde_180_135.jpg?1494319470" group-title="虎牙轮播", 热心市民高先生
 http://192.168.31.8:35455/huya/11602037
 #EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1036/66/5f360cfbcd1bbe1c2eca6702ba3f8d_180_135.jpg?1447425483" group-title="虎牙轮播", 逗比宝宝
@@ -3033,8 +2958,6 @@ http://192.168.31.8:35455/huya/27661804
 http://192.168.31.8:35455/huya/11352965
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1008/86/0ba082cb0dc036de085486f2c1e247_180_135.jpg?1679644279" group-title="虎牙轮播", 努比亚世界
 http://192.168.31.8:35455/huya/26355808
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1070/30/1ad62a8c467cb503798dea274ab0a4_180_135.jpg?1679644282" group-title="虎牙轮播", HUAWEI手机产品线
-http://192.168.31.8:35455/huya/26355812
 #EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1073/83/3a3b598d0419fbb4e8b4aaa7b68f62_180_135.jpg?1463660344" group-title="虎牙轮播", 寞尛北
 http://192.168.31.8:35455/huya/11602076
 #EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1043/1b/1f00f81ac5ebce10569c9e1abc426e_180_135.jpg?1456451235" group-title="虎牙轮播", 飙车的老司机
@@ -3075,12 +2998,6 @@ http://192.168.31.8:35455/huya/18232669
 http://192.168.31.8:35455/huya/21059621
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1013/62/0faa58c0c46d34f72dcc2ca1661258_180_135.jpg?1623318737" group-title="虎牙轮播", 憨憨哥说电影
 http://192.168.31.8:35455/huya/24917827
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1055/01/decc35a0df565e1d6ac9d566578b55_180_135.jpg?1679644289" group-title="虎牙轮播", OPPO新机发售
-http://192.168.31.8:35455/huya/26355813
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1049/3a/a5515b1792b9f03e7873a7e4561f3c_180_135.jpg?1578227664" group-title="虎牙轮播", 电脑装机联盟
-http://192.168.31.8:35455/huya/20469031
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1006/6e/8329ef48959605e11587f3ed3fba65_180_135.jpg?1679644596" group-title="虎牙轮播", Apple手机快发资讯
-http://192.168.31.8:35455/huya/26355817
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1072/1a/7cc14bdc3cc0523b0d5c2d195f2b84_180_135.jpg?1531104918" group-title="虎牙轮播", 桃白柏
 http://192.168.31.8:35455/huya/15958655
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1084/db/dffc01c132d76c439f364bb707d5e6_180_135.jpg?1656830762" group-title="虎牙轮播", 长沙海底世界 
@@ -3099,8 +3016,6 @@ http://192.168.31.8:35455/huya/23310352
 http://192.168.31.8:35455/huya/11342435
 #EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1038/e2/8b8aa989e7ed34e6206eadf80ff6f3_180_135.jpg" group-title="虎牙轮播", 沐小错
 http://192.168.31.8:35455/huya/11352956
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1029/18/5d04dbcf6ab709f749023603de2b86_180_135.jpg?1679644033" group-title="虎牙轮播", 魅友俱乐部
-http://192.168.31.8:35455/huya/26355805
 #EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1095/c2/105eb1f7e5c0e8926b19149cd334b9_180_135.jpg" group-title="虎牙轮播", 微微爱宝宝
 http://192.168.31.8:35455/huya/11342422
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1095/aa/9dd4ba508be5eeee9541be5afa0178_180_135.jpg?1604643950" group-title="虎牙轮播", Adam短发
@@ -3111,8 +3026,6 @@ http://192.168.31.8:35455/huya/11352886
 http://192.168.31.8:35455/huya/16615910
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1099/b1/bc0c715b07d3ef5936a35d6b350ea7_180_135.jpg?1646813217" group-title="虎牙轮播", 如何雨燕
 http://192.168.31.8:35455/huya/26355796
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1004/7e/76e747d83d28b49279ea731a88ac21_180_135.jpg?1611239394" group-title="虎牙轮播", 江苏政哥攒机
-http://192.168.31.8:35455/huya/23810101
 #EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1022/c2/47eb2295c7e5865c9d6db3cdf34cf3_180_135.jpg?1453364729" group-title="虎牙轮播", SMG吐槽担当
 http://192.168.31.8:35455/huya/11352961
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1003/c4/df0c79e95fb3d745afb0e5c035c111_180_135.jpg?1621826865" group-title="虎牙轮播", 仕说电影
@@ -3137,8 +3050,6 @@ http://192.168.31.8:35455/huya/21059594
 http://192.168.31.8:35455/huya/15267139
 #EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1031/88/7b633b36a92f6efb9d5375bbecaf44_180_135.jpg?1445856355" group-title="虎牙轮播", 羞涩的茄子
 http://192.168.31.8:35455/huya/11336590
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1037/94/4dce198c035b2d6aa109ec1c897951_180_135.jpg?1597930544" group-title="虎牙轮播", 618电脑电脑装机
-http://192.168.31.8:35455/huya/23264098
 #EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1049/3a/3f50dc18208783c6c9f5b9a76c59b2_180_135.jpg?1453112883" group-title="虎牙轮播", 尐饭团
 http://192.168.31.8:35455/huya/11352907
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1090/df/cdcbef8a8dc0df97c327411ec50f7a_180_135.jpg?1623826096" group-title="虎牙轮播", 二哥说电影
