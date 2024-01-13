@@ -1,16 +1,14 @@
 {
 	"spider":"./pg.jar",
 	"sites":[
-		{
-	    "key":"Alist",
-	    "name":"Alist",
-	    "type":3,
-	    "api":"http://192.168.31.8:5678/tvbox/libs/alist.min.js",
-	    "searchable":1,
-	    "quickSearch":1,
-	    "filterable":0,
-	    "ext":"http://192.168.31.8:5678/tvbox/json/alist.json;200;video"
-	     },
+	        {
+			"key": "996影院",
+			"name": "996影院",
+			"type": 3,
+			"api": "csp_Cs1369",
+			"searchable": 1,
+			"changeable": 1
+		},
 		{
 			"key": "酷狗",
 			"name": "酷狗",
@@ -18,29 +16,6 @@
 			"api": "csp_Kugou",
 			"searchable": 1,
 			"changeable": 0
-		},
-		{"key":"Local","name":"本地","type":3,"api":"csp_Local"},
-		{"key":"PikPakShare","name":"PikPak分享","type":3,"api":"csp_PikPakShare","searchable":1,"quickSearch":1, "changeable":0, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/pikpakclass.json$$$./lib/pikpakclass.json.txt.gz"},
-		{
-			"key": "网盘配置",
-			"name": "网盘及彈幕配置",
-			"type": 3,
-			"api": "csp_Config",
-			"searchable": 0,
-			"changeable": 0,
-			"style": {
-				"type": "rect",
-				"ratio": 1
-			},
-			"ext":"./lib/tokenm.json"
-		},
-		{
-			"key": "直播转点播",
-			"name": "🐼️┃电视┃直播",
-			"type": 3,
-			"searchable": 0,
-			"api": "./lib/live2vod.js",
-			"ext": "./lib/feimaolive.json"
 		},
 		{
 			"key": "豆瓣",
@@ -50,14 +25,6 @@
 			"searchable": 0,
 			"changeable": 1,
 			"ext": "./lib/douban.json"
-		},
-		{
-			"key": "996影院",
-			"name": "996影院",
-			"type": 3,
-			"api": "csp_Cs1369",
-			"searchable": 1,
-			"changeable": 1
 		},
 		{
 			"key": "FirstAid",
@@ -500,7 +467,7 @@
 			 {
                     "name": "直播",
                     "type": 0,
-                    "url": "./lib/zb.txt",
+                    "url": "./tv.txt",
                     "playerType": 2,
                     "ua": "okhttp/3.15",
                     "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
