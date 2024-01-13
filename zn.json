@@ -10,6 +10,15 @@
 			"changeable": 1
 		},
 		{
+                    "key": "ZYJK", 
+                    "name": "多线过滤", 
+                    "type": 1, 
+                    "api": "http://film.benmx.com/api.php/tvbox", 
+                    "searchable": 1, 
+                    "quickSearch": 1, 
+                   "filterable": 1
+                },
+		{
 			"key": "酷狗",
 			"name": "酷狗",
 			"type": 3,
