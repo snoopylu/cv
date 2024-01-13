@@ -12,6 +12,15 @@
 	    "ext":"http://192.168.31.8:5678/tvbox/json/alist.json;200;video"
 	     },
 		{
+            "key": "ZYJK", 
+            "name": "🌟 自用接口 ┃ 多线过滤", 
+            "type": 1, 
+            "api": "http://film.benmx.com/api.php/tvbox", 
+            "searchable": 1, 
+            "quickSearch": 1, 
+            "filterable": 1
+          },
+		{
 			"key": "酷狗",
 			"name": "酷狗",
 			"type": 3,
