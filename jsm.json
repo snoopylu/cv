@@ -13,7 +13,7 @@
 	     },
 		{
             "key": "ZYJK", 
-            "name": "🌟 自用接口 ┃ 多线过滤", 
+            "name": "多线过滤", 
             "type": 1, 
             "api": "http://film.benmx.com/api.php/tvbox", 
             "searchable": 1, 
@@ -28,7 +28,6 @@
 			"searchable": 1,
 			"changeable": 0
 		},
-		{"key":"Local","name":"本地","type":3,"api":"csp_Local"},
 		{"key":"PikPakShare","name":"PikPak分享","type":3,"api":"csp_PikPakShare","searchable":1,"quickSearch":1, "changeable":0, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/pikpakclass.json$$$./lib/pikpakclass.json.txt.gz"},
 		{
 			"key": "网盘配置",
@@ -509,7 +508,7 @@
 			 {
                     "name": "直播",
                     "type": 0,
-                    "url": "./lib/zb.txt",
+                    "url": "./zb.txt",
                     "playerType": 2,
                     "ua": "okhttp/3.15",
                     "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -536,7 +535,7 @@
 			{
 				"name": "娱乐2",
 				"type": 0,
-				"url": "./lib/hb.txt",
+				"url": "./hb.txt",
 				"playerType": 2,
 				"ua": "okhttp/3.15",
 				"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
