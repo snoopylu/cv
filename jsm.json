@@ -28,7 +28,8 @@
 			"searchable": 1,
 			"changeable": 0
 		},
-		{"key":"PikPakShare",
+		{
+			"key":"PikPakShare",
 			"name":"PikPak分享",
 			"type":3,
 			"api":"csp_PikPakShare",
