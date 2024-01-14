@@ -12,6 +12,14 @@
 	    "ext":"http://192.168.31.8:5678/tvbox/json/alist.json;200;video"
 	     },
 		{
+                "key": "xiaoya-tv",
+                "name": "小雅",
+                 "type": 3,
+                "indexs": 1,      
+                "api": "./js/xiaoya.js",
+                "ext": "http://192.168.31.8:4567/vod1/qa"
+            },
+		{
             "key": "ZYJK", 
             "name": "多线过滤", 
             "type": 1, 
