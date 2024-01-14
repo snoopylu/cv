@@ -28,7 +28,16 @@
 			"searchable": 1,
 			"changeable": 0
 		},
-		{"key":"PikPakShare","name":"PikPak分享","type":3,"api":"csp_PikPakShare","searchable":1,"quickSearch":1, "changeable":0, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/pikpakclass.json$$$./lib/pikpakclass.json.txt.gz"},
+		{"key":"PikPakShare",
+			"name":"PikPak分享",
+			"type":3,"api":"csp_PikPakShare",
+			"searchable":1,
+			"quickSearch":1,
+			"changeable":0, 
+			"filterable":0, 
+			"timeout":60,
+			"ext":"./lib/tokenm.json$$$./lib/pikpakclass.json$$$./lib/pikpakclass.json.txt.gz"
+		},
 		{
 			"key": "网盘配置",
 			"name": "网盘及彈幕配置",
