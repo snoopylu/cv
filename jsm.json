@@ -315,7 +315,7 @@
 		{ "key":"csp_YingShi","name":"影视|海外","type":3,"api":"csp_YingShi","ext":""},
 		{ 
 			"key": "泥巴", 
-			"name": "泥巴 | 海外", 
+			"name": "泥巴", 
 			"type": 3, 
 			"api": "csp_NiNi", 
 			"searchable":1,
@@ -323,7 +323,7 @@
 		},
 		{
 			"key": "星星",
-			"name": "星星 | 海外",
+			"name": "星星",
 			"type": 3,
 			"api": "csp_Star",
 			"searchable": 1,
@@ -332,7 +332,7 @@
 		},
 		{
 			"key": "獨播",
-			"name": "獨播 | 海外",
+			"name": "獨播",
 			"type": 3,
 			"api": "csp_XPathMacFilter",
 			"searchable": 1,
