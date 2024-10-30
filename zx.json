@@ -1,15 +1,6 @@
 {
   "spider": "./custom_spider.jar;md5;43989964965deab2a4b6b48251043412",
   "lives": [
-  {
-       "name": "移动直播（回看）",
-       "type": 0,
-       "url": "./z.txt",
-       "playerType": 1,
-       "ua": "okhttp/3.15",
-	  "epg": "https://gitee.com/taksssss/tv/raw/main/epg/112114.xml",
-		"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
-       },
     {
       "name": "肥羊国内直播",
       "type": 0,
@@ -18,6 +9,15 @@
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
+     {
+       "name": "移动直播（回看）",
+       "type": 0,
+       "url": "./z.txt",
+       "playerType": 1,
+       "ua": "okhttp/3.15",
+	  "epg": "https://gitee.com/taksssss/tv/raw/main/epg/112114.xml",
+		"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+       },
     {
       "name": "肥羊tptv",
       "type": 0,
@@ -61,8 +61,8 @@
   ],
   "sites": [
     {
-      "key": "TgYunDouBanPan|服务器",
-      "name": "TgYunDouBanPan|服务器",
+     "key": "豆瓣",
+			"name": "豆瓣",
       "type": 3,
       "api": "csp_TgYunDouBanPan",
       "searchable": 1,
