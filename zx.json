@@ -9,7 +9,7 @@
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-     {
+    {
        "name": "移动直播（回看）",
        "type": 0,
        "url": "./z.txt",
@@ -17,7 +17,7 @@
        "ua": "okhttp/3.15",
 	  "epg": "https://gitee.com/taksssss/tv/raw/main/epg/112114.xml",
 		 "logo": "https://epg.112114.xyz/logo/{name}.png"
-       },
+    },
     {
       "name": "肥羊bililive",
       "type": 0,
@@ -52,15 +52,20 @@
     }
   ],
   "sites": [
-   {
-      "key": "豆豆",
-      "name": "豆瓣推片",
+    {
+      "key": "TgYunDouBanPan|服务器",
+      "name": "TgYunDouBanPan|服务器",
       "type": 3,
-      "api": "csp_DouDou",
-      "searchable": 0,
-      "quickSearch": 0,
+      "api": "csp_TgYunDouBanPan",
+      "searchable": 1,
       "filterable": 0,
-      "jar": "./fan.txt"
+      "switchable": 0,
+      "ext": {
+        "siteUrl": "http://127.0.0.1:9999",
+        "channelUsername": "hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe",
+        "commonConfig": "./json/peizhi.json",
+        "filter": "./json/douban.json"
+      }
     },
     {
       "key": "玩偶gg",
@@ -75,7 +80,157 @@
         "filter": "./json/wogg.json"
       }
     },
-     {
+    {
+      "key": "lf_live10_min",
+      "name": " 路飞丨Live",
+      "type": 3,
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "api": "./lib/lf_live10_min-output.js",
+      "ext": "./json/lf_live.json"
+    },
+    {
+      "key": "哔哩FM",
+      "name": "哔哩",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "ext": {
+        "json": "./json/bilibili.json",
+        "cookie": ""
+      }
+    },
+    {
+      "key": "玩偶 | 蜡笔",
+      "name": "玩偶 | 蜡笔",
+      "type": 3,
+      "api": "csp_kongbai",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "commonConfig": "./json/peizhi.json",
+        "siteUrl": "http://labipan.com/",
+        "filter": "./json/wogg.json"
+      }
+    },
+    {
+      "key": "ConfigCenter",
+      "name": "配置中心",
+      "type": 3,
+      "api": "csp_ConfigCenter",
+      "searchable": 0,
+      "changeable": 0,
+      "ext": {
+        "commonConfig": "./json/peizhi.json"
+      }
+    },
+    {
+      "key": "TgYunPan|本地",
+      "name": "TgYunPan|本地",
+      "type": 3,
+      "api": "csp_TgYunPanLocal",
+      "searchable": 1,
+      "filterable": 0,
+      "switchable": 0,
+      "ext": {
+        "channelUsername": "hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe",
+        "commonConfig": "./json/peizhi.json"
+      }
+    },
+    {
+      "key": "星剧社",
+      "name": "星剧社",
+      "type": 3,
+      "api": "csp_Star2",
+      "searchable": 1,
+      "filterable": 0,
+      "switchable": 0,
+      "ext": {
+        "commonConfig": "./json/peizhi.json"
+      }
+    },
+    {
+      "key": "易搜",
+      "name": "易搜|4K",
+      "type": 3,
+      "api": "csp_YiSo",
+      "searchable": 1,
+      "filterable": 0,
+      "switchable": 0,
+      "ext": {
+        "cookie": "",
+        "commonConfig": "./json/peizhi.json"
+      }
+    },
+    {
+      "key": "盤搜索",
+      "name": "盤搜索",
+      "type": 3,
+      "api": "csp_PanSearch",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "commonConfig": "./json/peizhi.json"
+      }
+    },
+    {
+      "key": "紙條搜",
+      "name": "紙條搜",
+      "type": 3,
+      "api": "csp_XiaoZhiTiao",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "commonConfig": "./json/peizhi.json"
+      }
+    },
+    {
+      "key": "Youtube",
+      "name": "Youtube",
+      "type": 3,
+      "api": "csp_Youtube",
+      "searchable": 1,
+      "changeable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "ext": {
+        "commonConfig": "./json/peizhi.json",
+        "json": "./json/youtube.json",
+        "cookie": ""
+      }
+    },
+    {
+      "key": "賤賤",
+      "name": "賤賤",
+      "type": 3,
+      "api": "csp_Jianpian",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "https://ghp.ci/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/jianpian.json"
+    },
+    {
+      "key": "网盘集合",
+      "name": "网盘集合|4K",
+      "type": 3,
+      "api": "csp_网盘集合",
+      "searchable": 1,
+      "filterable": 0,
+      "switchable": 0,
+      "ext": {
+        "commonConfig": "./json/peizhi.json",
+        "share": "./json/网盘集合.json"
+      }
+    },
+    {
       "key": "YGP",
       "name": "叨观荐影┃新片",
       "type": 3,
@@ -541,143 +696,6 @@
         "from": "4k|auto"
       },
       "jar": "./fan.txt"
-    },
-    {
-      "key": "lf_live10_min",
-      "name": " 路飞丨Live",
-      "type": 3,
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "api": "./lib/lf_live10_min-output.js",
-      "ext": "./json/lf_live.json"
-    },
-    {
-      "key": "哔哩FM",
-      "name": "哔哩",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      },
-      "ext": {
-        "json": "./json/bilibili.json",
-        "cookie": ""
-      }
-    },
-    {
-      "key": "玩偶 | 蜡笔",
-      "name": "玩偶 | 蜡笔",
-      "type": 3,
-      "api": "csp_kongbai",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": {
-        "commonConfig": "./json/peizhi.json",
-        "siteUrl": "http://labipan.com/",
-        "filter": "./json/wogg.json"
-      }
-    },
-    {
-      "key": "ConfigCenter",
-      "name": "配置中心",
-      "type": 3,
-      "api": "csp_ConfigCenter",
-      "searchable": 0,
-      "changeable": 0,
-      "ext": {
-        "commonConfig": "./json/peizhi.json"
-      }
-    },
-    {
-      "key": "星剧社",
-      "name": "星剧社",
-      "type": 3,
-      "api": "csp_Star2",
-      "searchable": 1,
-      "filterable": 0,
-      "switchable": 0,
-      "ext": {
-        "commonConfig": "./json/peizhi.json"
-      }
-    },
-    {
-      "key": "易搜",
-      "name": "易搜|4K",
-      "type": 3,
-      "api": "csp_YiSo",
-      "searchable": 1,
-      "filterable": 0,
-      "switchable": 0,
-      "ext": {
-        "cookie": "",
-        "commonConfig": "./json/peizhi.json"
-      }
-    },
-    {
-      "key": "盤搜索",
-      "name": "盤搜索",
-      "type": 3,
-      "api": "csp_PanSearch",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": {
-        "commonConfig": "./json/peizhi.json"
-      }
-    },
-    {
-      "key": "紙條搜",
-      "name": "紙條搜",
-      "type": 3,
-      "api": "csp_XiaoZhiTiao",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": {
-        "commonConfig": "./json/peizhi.json"
-      }
-    },
-    {
-      "key": "Youtube",
-      "name": "Youtube",
-      "type": 3,
-      "api": "csp_Youtube",
-      "searchable": 1,
-      "changeable": 1,
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      },
-      "ext": {
-        "commonConfig": "./json/peizhi.json",
-        "json": "./json/youtube.json",
-        "cookie": ""
-      }
-    },
-    {
-      "key": "賤賤",
-      "name": "賤賤",
-      "type": 3,
-      "api": "csp_Jianpian",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "https://ghp.ci/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/jianpian.json"
-    },
-    {
-      "key": "网盘集合",
-      "name": "网盘集合|4K",
-      "type": 3,
-      "api": "csp_网盘集合",
-      "searchable": 1,
-      "filterable": 0,
-      "switchable": 0,
-      "ext": {
-        "commonConfig": "./json/peizhi.json",
-        "share": "./json/网盘集合.json"
-      }
     },
     {
       "key": "push_agent",
