@@ -583,6 +583,16 @@
             "searchable": 1,
             "changeable": 1
         },
+	 {
+            "key": "边缘影视APP.py",
+            "name": "边缘影视APP.py",
+            "type": 3,
+            "api": "./py/边缘影视APP.py",
+            "searchable": 1,
+           "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0
+        },	
         {
             "key": "py_皮皮虾APP.py",
             "name": "皮皮虾APP.py",
