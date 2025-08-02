@@ -620,15 +620,6 @@
       "filterable": 1
     },	
 	{
-      "key": "snzy",
-      "name": "金鹰资源",
-      "type": 0,
-      "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/at/xml/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },	
-	{
       "key": "ikzy",
       "name": "ikun资源",
       "type": 0,
