@@ -584,137 +584,32 @@
             "changeable": 1
         },
 	 {
-            "key": "边缘影视APP.py",
-            "name": "边缘影视APP.py",
-            "type": 3,
-            "api": "./py/边缘影视APP.py",
-            "searchable": 1,
-           "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0
-        },	
-        {
-            "key": "py_皮皮虾APP.py",
-            "name": "皮皮虾APP.py",
-            "type": 3,
-            "api": "./py/皮皮虾APP.py",
-            "searchable": 1,
-           "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0
-        },
-        {
-            "key": "py_云端APP",
-            "name": "云端APP",
-            "type": 3,
-            "api": "./py/云端APP.py",
-            "searchable": 1,
-           "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0
-        },
-		     {
-            "key": "py_若惜追剧APP",
-            "name": "若惜追剧APP",
-            "type": 3,
-            "api": "./py/若惜追剧APP.py",
-            "searchable": 1,
-           "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0
-        },
-         {
-            "key": "py_三号动漫APP.py",
-            "name": "三号动漫APP.py",
-            "type": 3,
-            "api": "./py/三号动漫APP.py",
-            "searchable": 1,
-           "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0
-        },
-       {
-            "key": "py_LREEOK.py",
-            "name": "LREEOK.py",
-            "type": 3,
-            "api": "./py/LREEOK.py",
-            "searchable": 1,
-           "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0
-        },
-        {
-            "key": "py_悠悠APP.py",
-            "name": "悠悠APP.py",
-            "type": 3,
-            "api": "./py/悠悠APP.py",
-           "searchable": 1,
-           "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0
-        },
-        {
-            "key": "py_LIVES.py",
-            "name": "LIVES.py",
-            "type": 3,
-            "api": "./py/LIVES.py",
-           "searchable": 1,
-           "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0
-        },
-        {
-            "key": "py_光速APP.py",
-            "name": "光速APP.py",
-            "type": 3,
-            "api": "./py/光速APP.py",
-           "searchable": 1,
-           "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0
-        },
-        {
-            "key": "py_红果网页.py",
-            "name": "红果网页.py",
-            "type": 3,
-            "api": "./py/红果网页.py",
-          "searchable": 1,
-           "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0
-        },
-        {
-            "key": "py_金牌.py",
-            "name": "金牌.py",
-            "type": 3,
-            "api": "./py/金牌.py",
-           "searchable": 1,
-           "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-      "site": "https://www.jpyy2.com,https://www.cfkj86.com,https://www.hkybqufgh.com,https://www.sizhengxt.com,https://0996zp.com,https://9zhoukj.com/,https://www.sizhengxt.com,https://www.tjrongze.com,https://cqzuoer.com,https://www.jiabaide.cn,https://www.vv3nwjk.com"
-         }
-        },
-        {
-            "key": "py_剧多短剧APP.py",
-            "name": "剧多短剧APP.py",
-            "type": 3,
-            "api": "./py/剧多短剧APP.py",
-           "searchable": 1,
-           "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0
-        },
-        {
-            "key": "py_甜圈短剧.py",
-            "name": "甜圈短剧.py",
-            "type": 3,
-            "api": "./py/甜圈短剧.py",
-           "searchable": 1,
-           "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0
-        }],
+      "key": "lzzy",
+      "name": "量子采集",
+      "type": 0,
+      "api": "https://cj.lziapi.com/api.php/provide/vod/from/liangzi/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "hyzy",
+      "name": "虎牙资源",
+      "type": 0,
+      "api": "https://www.huyaapi.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+	  {
+      "key": "hmer",
+      "name": "黑木耳",
+      "type": 0,
+      "api": "https://xml02.heimuer.xyz/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    } ],
 		"lives":[
 		{
        "name": "移动源",
