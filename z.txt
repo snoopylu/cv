@@ -254,12 +254,10 @@ CETV4,http://223.110.241.137:6610/gitv/live1/G_CETV-4/G_CETV-4/1.m3u8
 江苏综艺,http://223.110.241.137:6610/gitv/live1/G_JSZY/G_JSZY/1.m3u8
 江苏教育,http://223.110.241.137:6610/gitv/live1/G_JSJY/G_JSJY/1.m3u8
 
-其他_886,#genre#
+其他,#genre#
 花花公子,http://rhsbjv7k.tvclub.xyz/iptv/WCKQ3HC3UMGVLG/527/index.m3u8
 花花公子Plus,http://rhsbjv7k.tvclub.xyz/iptv/WCKQ3HC3UMGVLG/6242/index.m3u8
-花花公子 LA,http://rhsbjv7k.tvclub.xyz/iptv/WCKQ3HC3UMGVLG/6280/index.m3u8
 花花公子Plus,http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6242/index.m3u8
 花花公子,http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/527/index.m3u8
-花花公子LA,http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6280/index.m3u8
 
 
