@@ -655,15 +655,6 @@
        "ua": "okhttp/3.15",
 	  "epg": "https://gitee.com/taksssss/tv/raw/main/epg/112114.xml",
 	  "logo": "https://epg.112114.xyz/logo/{name}.png"
-       },
-		{
-       "name": "bxtv",
-       "type": 0,
-       "url": "https://bxtv.3a.ink/live.txt",
-       "playerType": 1,
-       "ua": "okhttp/3.15",
-	  "epg": "https://gitee.com/taksssss/tv/raw/main/epg/112114.xml",
-	  "logo": "https://epg.112114.xyz/logo/{name}.png"
        }
 		],
 		"doh": [
