@@ -3,7 +3,7 @@
   "wallpaper":"http://127.0.0.1:9978/proxy?do=wall",
   "logo":"https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/ACB34B_773_photo_2022-09-14_00-00-57_20251204145106336newMediaImage.jpg",
   "sites": [
-    {"key":"豆瓣","name":"🤓公众号┃OK杰克 (打不开请长按首页或清空缓存)","type":3,"api":"csp_AweSomeGuard","searchable":0,"changeable":1, "ext": {"sp": "Douban"}},
+    {"key":"豆瓣","name":"豆瓣┃推荐 (打不开请长按首页或清空缓存)","type":3,"api":"csp_AweSomeGuard","searchable":0,"changeable":1, "ext": {"sp": "Douban"}},
     {"key":"配置中心","name":"👨‍🍳‍配置┃中心","type":3,"api":"csp_AweSomeGuard","searchable":0,"changeable":0,"indexs":0,"style":{"type":"rect","ratio":1.43}, "ext": {"sp": "Config"}},
     {"key":"本地播放","name":"🐼本地┃播放","type":3,"api":"csp_AweSomeGuard","searchable":0,"changeable":0,"indexs":0, "style":{"type":"list"}, "timeout":5, "ext": {"sp": "Local"}},
 
